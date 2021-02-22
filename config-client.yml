@@ -7,7 +7,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: springcloud-provider-dept
+    name: springcloud-config-dev
 
 #Eureka的配置，注册到哪里
 eureka:
@@ -20,7 +20,7 @@ server:
 spring:
   profiles: test
   application:
-    name: springcloud-provider-dept
+    name: springcloud-config-dev
 
 #Eureka的配置，注册到哪里
 eureka:
