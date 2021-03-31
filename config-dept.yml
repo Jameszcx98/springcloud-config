@@ -1,6 +1,5 @@
- spring:
-  profiles:
-    Active: dev
+spring:
+  profiles: Active:dev
 ---
 server:
   port: 81
