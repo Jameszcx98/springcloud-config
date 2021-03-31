@@ -3,7 +3,7 @@ spring:
     Active: dev
 ---
 server:
-  port: 7010
+  port: 7001
 #spring的配置
 spring:
   profiles: dev
