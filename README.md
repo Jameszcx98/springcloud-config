@@ -1,2 +1,2 @@
 # springcloud-config
-do some exercises about springcloud-config
+do some practise about springcloud-config
